@@ -1,0 +1,40 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="avatarTitle">
+  <title id="avatarTitle">Retrato geométrico abstracto</title>
+  <defs>
+    <linearGradient id="skinGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B212B"/>
+      <stop offset="100%" stop-color="#12161C"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6EE7C8"/>
+      <stop offset="100%" stop-color="#D9A96C"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="200" cy="200" r="190" fill="none" stroke="url(#ringGrad)" stroke-width="1.5" stroke-dasharray="4 10" opacity="0.5"/>
+
+  <circle cx="200" cy="200" r="150" fill="url(#skinGrad)" stroke="#232A35" stroke-width="1"/>
+
+  <path d="M120 260 C120 170 155 120 200 120 C245 120 280 170 280 260 L280 300 L120 300 Z" fill="#171C24"/>
+
+  <circle cx="200" cy="185" r="72" fill="#1B212B" stroke="#2A3240" stroke-width="1.5"/>
+
+  <path d="M148 165 Q200 120 252 165 Q252 130 200 122 Q148 130 148 165 Z" fill="#0F1218"/>
+
+  <circle cx="172" cy="190" r="6" fill="#6EE7C8"/>
+  <circle cx="228" cy="190" r="6" fill="#6EE7C8"/>
+
+  <path d="M180 222 Q200 236 220 222" stroke="#D9A96C" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <g opacity="0.9">
+    <rect x="140" y="290" width="120" height="14" rx="7" fill="#232A35"/>
+    <rect x="152" y="284" width="96" height="10" rx="5" fill="#6EE7C8" opacity="0.35"/>
+  </g>
+
+  <g fill="none" stroke="#6EE7C8" stroke-width="2" opacity="0.6">
+    <path d="M60 90 L80 90 L80 70"/>
+    <path d="M340 90 L320 90 L320 70"/>
+  </g>
+  <text x="60" y="112" font-family="'IBM Plex Mono', monospace" font-size="14" fill="#6EE7C8" opacity="0.7">&lt;/&gt;</text>
+  <text x="300" y="112" font-family="'IBM Plex Mono', monospace" font-size="14" fill="#D9A96C" opacity="0.7">{ }</text>
+</svg>
