@@ -93,6 +93,15 @@ Este proyecto fue desarrollado con la asistencia de **Claude (Anthropic) versió
 - Todas las decisiones finales de diseño, estructura y contenido fueron
   revisadas por el autor antes de la entrega.
 
+## Experiencia previa y modo de encarar el proyecto
+
+- No poseía experiencia previa en el desarrollo en el diseño de un porfolio.
+- Tenía una experiencia MUY BÁSICA en el diseño HTML.
+- Probé distintas directivas hacia la IA para obtener un diseño que me resultase 
+  atractivo y cumpliese con los reuisitos pedidos.
+- Experimenté con distintos modelos de IA, buscando la solución que mejor se adapte
+  a ño que pretendia.
+
 ## ▶️ Cómo ejecutar el proyecto localmente
 
 1. Cloná el repositorio o descargá los archivos.
