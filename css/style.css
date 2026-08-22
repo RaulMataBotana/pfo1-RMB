@@ -492,6 +492,12 @@ input:focus, textarea:focus {
   color: var(--muted);
 }
 
+.form-note {
+  font-size: 0.8rem;
+  color: var(--muted);
+  text-align: center;
+}
+
 /* ---------- Footer ---------- */
 .site-footer {
   border-top: 1px solid var(--border);
